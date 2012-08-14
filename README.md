@@ -1,5 +1,5 @@
-Android�f���A�v��
+Androidデモアプリ
 ================
 
-* Android�f���A�v���ɂ��Ē��ׂ�
+* Androidデモアプリについて調べる
 
