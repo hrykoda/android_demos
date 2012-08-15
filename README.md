@@ -5,4 +5,7 @@ Androidデモアプリ
 
  [demos][]
 
-  [demos]: demos.md "demos list"
+  [demos]: <blob/master/demos.md> "demos list"
+
+
+
