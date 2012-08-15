@@ -5,7 +5,7 @@ Androidデモアプリ
 
  [demos][]
 
-  [demos]: <blob/master/demos.md> "demos list"
+  [demos]: </hrykoda/android_demos/blob/master/demos.md> "demos list"
 
 
 
